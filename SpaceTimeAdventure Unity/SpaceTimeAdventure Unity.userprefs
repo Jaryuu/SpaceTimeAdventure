@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ElipticalMovement.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OnClick.js">
     <Files>
-      <File FileName="Assets\Scripts\Rotate.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ElipticalMovement.js" Line="14" Column="10" />
+      <File FileName="Assets\Scripts\TouchLogic.cs" Line="56" Column="22" />
+      <File FileName="Assets\Scripts\Button.js" Line="165" Column="52" />
+      <File FileName="Assets\Scripts\OnClick.js" Line="48" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
